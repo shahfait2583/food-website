@@ -1,0 +1,177 @@
+
+@media(min-width:992px) and (max-width:1199.98px){
+   
+    .minu ul li a {
+        margin-left: 22px;
+    }
+    .banner-text h1 {
+        font-size: 4rem;
+    }
+    #test{
+        height: 60vh;
+    }
+    .test-card {
+        margin-bottom: 20px;
+    }
+    #contact {
+        height: 50vh;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+
+    .minu ul li a {
+        margin-left: 15px;
+    }
+    .banner-text h1 {
+        font-size: 4rem;
+    }
+    #about {
+        margin-top: 28px;
+        margin-bottom: 50px;
+    }
+    .menu-head p {
+        padding-bottom: 15px;
+    }
+    #menu {
+        padding-bottom: 30px;
+    }
+    #expert {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .test-head {
+        padding-top: 20px;
+    }
+    #test {
+        height: 100%;
+    }
+    .test-head p {
+        font-size: 16px;
+    }
+    .test-head {
+        padding-top: 30px;
+    }
+    .test-card {
+        margin-bottom: 26px;
+    }
+    #contact {
+        height: 100%;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+
+    .logo a {
+        font-size: 25px;
+    }
+    header {
+        padding: 16px 14px;
+    }
+    .minu ul {
+        text-align: left;
+    }
+    .minu ul li a {
+        margin-left: 8px;
+    }
+    .banner-text h1 {
+        font-size: 3rem;
+    }
+    
+    #about {
+        margin-top: 28px;
+        margin-bottom: 57px;
+    }
+    .menu-head p {
+        padding-bottom: 22px;
+    }
+    #menu {
+        padding-bottom: 30px;
+    }
+    #expert {
+        padding-top: 26px;
+        padding-bottom: 35px;
+    }
+    .test-head {
+        padding-top: 18px;
+    }
+    #test {
+        height: 100%;
+    }
+    .test-head p {
+        font-size: 16px;
+    }
+    .test-head {
+        padding-top: 30px;
+    }
+    .test-card {
+        margin-bottom: 26px;
+    }
+    .contact-head {
+        padding-top: 24px;
+    }
+    .contact-from {
+        padding: 11px 20px;
+    }
+    #contact {
+        height: 100%;
+    }
+    .test-card {
+        padding: 21px 33px;
+
+    }
+}
+@media(max-width:575.98px){
+    .minu{
+        visibility: hidden;
+    }
+    .banner-text h1 {
+        font-size: 40px;
+    }
+    .logo a {
+        font-size: 19px;
+    }
+    header {
+        padding: 16px 14px;
+    }
+    .banner-text h1 {
+        margin-top: -76px;
+    }
+    #banner {
+        height: 82vh;
+    }
+    .menu-head p {
+        padding-bottom: 15px;
+        font-size: 16px;
+    }
+    #menu {
+        padding-top: 25px;
+        padding-bottom: 37px;
+    }
+    #expert {
+        padding-top: 23px;
+        padding-bottom: 29px;
+    }
+    #test {
+        height: 100%;
+    }
+    .test-head p {
+        font-size: 16px;
+    }
+    .test-head {
+        padding-top: 30px;
+    }
+    .test-card {
+        margin-bottom: 26px;
+    }
+    .contact-head {
+        padding-top: 25px;
+    }
+    .contact-from {
+        padding: 19px 20px;
+    }
+    #contact {
+        height: 100%;
+    }
+    p {
+        font-size: 14px;
+    }
+}
